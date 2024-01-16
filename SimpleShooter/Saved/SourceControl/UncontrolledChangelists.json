@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_ShooterCharacter.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/Sandbox.umap",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_MyPawn.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_ShooterGameMode.uasset"
+			]
+		}
+	]
+}

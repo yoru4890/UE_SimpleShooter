@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-SimpleShooter.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\github\game_project\Unreal_Game\UE_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\x64\SimpleShooterEditor\Development\Engine\SharedPCH.Engine.Cpp20.h.obj"
+"D:\github\game_project\Unreal_Game\UE_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\MyPawn.gen.cpp.obj"
+"D:\github\game_project\Unreal_Game\UE_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\SimpleShooter.init.gen.cpp.obj"
+"D:\github\game_project\Unreal_Game\UE_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\SimpleShooter.cpp.obj"
+"D:\github\game_project\Unreal_Game\UE_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\MyPawn.cpp.obj"
+"D:\github\game_project\Unreal_Game\UE_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\Default.rc2.res"
+/OUT:"D:\github\game_project\Unreal_Game\UE_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\x64\UnrealEditor\Development\SimpleShooter\UnrealEditor-SimpleShooter.lib"
