@@ -9,7 +9,9 @@
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/Sandbox.umap",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_MyPawn.uasset",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_ShooterGameMode.uasset",
-				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A1.uasset"
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/AssetPacks/ModularSciFiSeason1/StarterBundle/ModularSci_Comm/Meshes/SM_Stairs_A1.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/ABP_ShooterCharacter.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BS_Locomotion.uasset"
 			]
 		}
 	]
