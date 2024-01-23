@@ -256,6 +256,9 @@
 /I "Developer\PhysicsUtilities\Public"
 /I "..\Intermediate\Build\Win64\UnrealEditor\Inc\WidgetRegistration\UHT"
 /I "Developer\WidgetRegistration\Public"
+/I "..\Intermediate\Build\Win64\UnrealEditor\Inc\AIModule\UHT"
+/I "Runtime\AIModule\Classes"
+/I "Runtime\AIModule\Public"
 /I "D:\github\game_project\Unreal_Game\UE_SimpleShooter\SimpleShooter\Intermediate\Build\Win64\UnrealEditor\Inc\SimpleShooter\UHT"
 /I "D:\github\game_project\Unreal_Game\UE_SimpleShooter\SimpleShooter\Source"
 /external:W0

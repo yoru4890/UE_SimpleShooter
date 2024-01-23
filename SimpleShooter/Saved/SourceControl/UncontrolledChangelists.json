@@ -15,6 +15,11 @@
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_Rifle.uasset",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/AssetPacks/ParagonWraith/Characters/Heroes/Wraith/Meshes/Wraith_Skeleton.uasset",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/AssetPacks/ShooterGame/Weapons/Rifle.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_ShooterAIController.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BT_EnemyAI.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/AI/BB_EnemyAI.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/AI/BT_EnemyAI.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/AI/BP_ShooterAIController.uasset",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_Gun.uasset"
 			]
 		}
