@@ -1,0 +1,21 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\github\\game_project\\unreal_game\\ue_simpleshooter\\simpleshooter\\source\\simpleshooter\\killemallgamemode.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\github\\game_project\\unreal_game\\ue_simpleshooter\\simpleshooter\\intermediate\\build\\win64\\x64\\simpleshootereditor\\development\\unrealed\\sharedpch.unrealed.cpp20.h.pch",
+        "Includes": [
+            "d:\\github\\game_project\\unreal_game\\ue_simpleshooter\\simpleshooter\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\simpleshooter\\definitions.simpleshooter.h",
+            "d:\\github\\game_project\\unreal_game\\ue_simpleshooter\\simpleshooter\\source\\simpleshooter\\killemallgamemode.h",
+            "d:\\github\\game_project\\unreal_game\\ue_simpleshooter\\simpleshooter\\source\\simpleshooter\\asimpleshootergamemodebase.h",
+            "c:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\unrealengine\\ue_5.3\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\serverstatreplicator.generated.h",
+            "c:\\unrealengine\\ue_5.3\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\gamemodebase.generated.h",
+            "d:\\github\\game_project\\unreal_game\\ue_simpleshooter\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\uht\\asimpleshootergamemodebase.generated.h",
+            "d:\\github\\game_project\\unreal_game\\ue_simpleshooter\\simpleshooter\\intermediate\\build\\win64\\unrealeditor\\inc\\simpleshooter\\uht\\killemallgamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
