@@ -24,6 +24,8 @@
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/SFX/A_RifleShot_Cue.uasset",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/SFX/A_RifleImpact_Cue.uasset",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/SFX/ATT_Default.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/UI/WBP_HUD.uasset",
+				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_PlayerShooterCharacter.uasset",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_ShooterGameMode.uasset",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BP_ShooterAIController.uasset",
 				"D:/github/game_project/Unreal_Game/UE_SimpleShooter/SimpleShooter/Content/BT_EnemyAI.uasset",
